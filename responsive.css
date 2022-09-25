@@ -1,0 +1,40 @@
+@media screen and (max-width: 1908px) {
+    .alpha {
+        border: 2px solid red;
+    }
+
+    .a12 input {
+        width: 420%;
+    }
+
+    ul {
+        margin-left: 535px;
+    }
+
+    li a {
+        margin-left: 0px;
+    }
+
+    .a14 img {
+        margin-left: 2px;
+    }
+
+    .a2 li {
+        padding-right: 45px;
+    }
+
+    .b11 {
+        width: 556px;
+        font-size: larger;
+        padding-top: 114px;
+        padding-left: 635px;
+        margin-right: 432px;
+    }
+
+    .b12 {
+        margin-left: 39px;
+        margin-right: -661px;
+        height: 26px;
+        padding-top: 117px;
+    }
+}
